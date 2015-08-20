@@ -1,0 +1,915 @@
+2015-07-21 22:20:34,366 - INFO - Loaded plugin FileLogger
+2015-07-21 22:20:34,644 - INFO - Loaded plugin LocalFileStorage
+2015-07-21 22:20:34,656 - INFO - Loaded plugin MeshView
+2015-07-21 22:20:34,663 - INFO - Loaded plugin WireframeView
+2015-07-21 22:20:34,678 - INFO - Loaded plugin LayerView
+2015-07-21 22:20:34,681 - INFO - Loaded plugin OBJReader
+2015-07-21 22:20:34,684 - INFO - Loaded plugin STLReader
+2015-07-21 22:20:34,687 - INFO - Loaded plugin OBJWriter
+2015-07-21 22:20:34,691 - INFO - Loaded plugin STLWriter
+2015-07-21 22:20:34,697 - INFO - Loaded plugin GCodeWriter
+2015-07-21 22:20:34,702 - INFO - Loaded plugin CameraTool
+2015-07-21 22:20:34,712 - INFO - Loaded plugin MirrorTool
+2015-07-21 22:20:34,739 - INFO - Loaded plugin RotateTool
+2015-07-21 22:20:34,746 - INFO - Loaded plugin ScaleTool
+2015-07-21 22:20:34,751 - INFO - Loaded plugin SelectionTool
+2015-07-21 22:20:34,756 - INFO - Loaded plugin TranslateTool
+2015-07-21 22:20:34,766 - INFO - Checking for new version of cura
+2015-07-21 22:20:34,766 - INFO - Loaded plugin UpdateChecker
+2015-07-21 22:20:34,789 - INFO - Loaded plugin USBPrinting
+2015-07-21 22:20:34,803 - INFO - Loaded plugin CuraEngineBackend
+2015-07-21 22:20:35,870 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-07-21 22:20:37,341 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-21 22:20:37,351 - DEBUG - Backend connected on port 49674
+2015-07-21 22:23:12,022 - DEBUG - Loaded a mesh with 10452 vertices
+2015-07-22 00:22:02,779 - DEBUG - Loaded a mesh with 38802 vertices
+2015-07-22 00:23:07,589 - DEBUG - Killing engine process
+2015-07-22 00:23:08,304 - INFO - Backend crashed or closed. Restarting...
+2015-07-22 00:23:08,598 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-22 00:23:08,669 - DEBUG - Backend connected on port 49674
+2015-07-22 00:23:29,316 - DEBUG - Killing engine process
+2015-07-22 00:23:29,487 - INFO - Backend crashed or closed. Restarting...
+2015-07-22 00:23:29,758 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-22 00:23:29,766 - DEBUG - Backend connected on port 49674
+2015-07-22 01:08:05,301 - DEBUG - Killing engine process
+2015-07-22 01:08:05,714 - INFO - Backend crashed or closed. Restarting...
+2015-07-22 01:08:05,992 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-22 01:08:05,997 - DEBUG - Backend connected on port 49674
+2015-07-22 01:08:08,350 - DEBUG - Killing engine process
+2015-07-22 01:08:08,819 - INFO - Backend crashed or closed. Restarting...
+2015-07-22 01:08:09,088 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-22 01:08:09,091 - DEBUG - Backend connected on port 49674
+2015-07-23 19:00:22,124 - DEBUG - Killing engine process
+2015-07-23 19:00:22,517 - INFO - Backend crashed or closed. Restarting...
+2015-07-23 19:00:22,803 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-23 19:00:22,838 - DEBUG - Backend connected on port 49674
+2015-07-23 19:00:26,019 - DEBUG - Killing engine process
+2015-07-23 19:00:26,123 - INFO - Backend crashed or closed. Restarting...
+2015-07-23 19:00:26,399 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-23 19:00:26,402 - DEBUG - Backend connected on port 49674
+2015-07-23 19:09:56,674 - DEBUG - Loaded a mesh with 14700 vertices
+2015-07-23 19:10:32,988 - DEBUG - Killing engine process
+2015-07-23 19:10:33,271 - INFO - Backend crashed or closed. Restarting...
+2015-07-23 19:10:33,576 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-23 19:10:33,600 - DEBUG - Backend connected on port 49674
+2015-07-24 12:52:17,258 - INFO - Loaded plugin FileLogger
+2015-07-24 12:52:17,544 - INFO - Loaded plugin LocalFileStorage
+2015-07-24 12:52:17,557 - INFO - Loaded plugin MeshView
+2015-07-24 12:52:17,563 - INFO - Loaded plugin WireframeView
+2015-07-24 12:52:17,571 - INFO - Loaded plugin LayerView
+2015-07-24 12:52:17,574 - INFO - Loaded plugin OBJReader
+2015-07-24 12:52:17,577 - INFO - Loaded plugin STLReader
+2015-07-24 12:52:17,581 - INFO - Loaded plugin OBJWriter
+2015-07-24 12:52:17,584 - INFO - Loaded plugin STLWriter
+2015-07-24 12:52:17,591 - INFO - Loaded plugin GCodeWriter
+2015-07-24 12:52:17,595 - INFO - Loaded plugin CameraTool
+2015-07-24 12:52:17,605 - INFO - Loaded plugin MirrorTool
+2015-07-24 12:52:17,641 - INFO - Loaded plugin RotateTool
+2015-07-24 12:52:17,649 - INFO - Loaded plugin ScaleTool
+2015-07-24 12:52:17,654 - INFO - Loaded plugin SelectionTool
+2015-07-24 12:52:17,662 - INFO - Loaded plugin TranslateTool
+2015-07-24 12:52:17,671 - INFO - Checking for new version of cura
+2015-07-24 12:52:17,671 - INFO - Loaded plugin UpdateChecker
+2015-07-24 12:52:17,690 - INFO - Loaded plugin USBPrinting
+2015-07-24 12:52:17,703 - INFO - Loaded plugin CuraEngineBackend
+2015-07-24 12:52:18,913 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-07-24 12:52:20,676 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-24 12:52:20,820 - DEBUG - Backend connected on port 49674
+2015-07-24 12:53:08,927 - DEBUG - Loaded a mesh with 6228 vertices
+2015-07-24 12:53:10,130 - DEBUG - Killing engine process
+2015-07-24 12:53:10,249 - INFO - Backend crashed or closed. Restarting...
+2015-07-24 12:53:10,514 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-24 12:53:10,520 - DEBUG - Backend connected on port 49674
+2015-07-24 22:51:37,012 - DEBUG - Attempting to connect to /dev/cu.usbserial-A6043GZM
+2015-07-24 22:51:42,424 - INFO - Could not establish connection on /dev/cu.usbserial-A6043GZM: 'Timeout'. Device is not arduino based.
+2015-07-24 22:51:42,426 - INFO - Could not establish connection on /dev/cu.usbserial-A6043GZM, unknown reasons.
+2015-07-26 23:03:17,629 - INFO - Loaded plugin FileLogger
+2015-07-26 23:03:17,915 - INFO - Loaded plugin LocalFileStorage
+2015-07-26 23:03:17,930 - INFO - Loaded plugin MeshView
+2015-07-26 23:03:17,936 - INFO - Loaded plugin WireframeView
+2015-07-26 23:03:17,946 - INFO - Loaded plugin LayerView
+2015-07-26 23:03:17,949 - INFO - Loaded plugin OBJReader
+2015-07-26 23:03:17,954 - INFO - Loaded plugin STLReader
+2015-07-26 23:03:17,959 - INFO - Loaded plugin OBJWriter
+2015-07-26 23:03:17,962 - INFO - Loaded plugin STLWriter
+2015-07-26 23:03:17,969 - INFO - Loaded plugin GCodeWriter
+2015-07-26 23:03:17,974 - INFO - Loaded plugin CameraTool
+2015-07-26 23:03:17,985 - INFO - Loaded plugin MirrorTool
+2015-07-26 23:03:18,016 - INFO - Loaded plugin RotateTool
+2015-07-26 23:03:18,025 - INFO - Loaded plugin ScaleTool
+2015-07-26 23:03:18,030 - INFO - Loaded plugin SelectionTool
+2015-07-26 23:03:18,036 - INFO - Loaded plugin TranslateTool
+2015-07-26 23:03:18,043 - INFO - Checking for new version of cura
+2015-07-26 23:03:18,043 - INFO - Loaded plugin UpdateChecker
+2015-07-26 23:03:18,063 - INFO - Loaded plugin USBPrinting
+2015-07-26 23:03:18,076 - INFO - Loaded plugin CuraEngineBackend
+2015-07-26 23:03:19,337 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-07-26 23:03:20,691 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-26 23:03:20,857 - DEBUG - Backend connected on port 49674
+2015-07-26 23:03:48,139 - DEBUG - Loaded a mesh with 102156 vertices
+2015-07-26 23:03:49,371 - DEBUG - Killing engine process
+2015-07-26 23:03:49,649 - INFO - Backend crashed or closed. Restarting...
+2015-07-26 23:03:49,940 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-07-26 23:03:49,946 - DEBUG - Backend connected on port 49674
+2015-08-04 12:39:23,188 - DEBUG - Killing engine process
+2015-08-04 12:39:23,197 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 12:39:23,484 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 12:39:23,492 - DEBUG - Backend connected on port 49674
+2015-08-04 12:41:30,859 - INFO - Loaded plugin FileLogger
+2015-08-04 12:41:31,117 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 12:41:31,126 - INFO - Loaded plugin MeshView
+2015-08-04 12:41:31,139 - INFO - Loaded plugin WireframeView
+2015-08-04 12:41:31,149 - INFO - Loaded plugin LayerView
+2015-08-04 12:41:31,154 - INFO - Loaded plugin OBJReader
+2015-08-04 12:41:31,157 - INFO - Loaded plugin STLReader
+2015-08-04 12:41:31,162 - INFO - Loaded plugin OBJWriter
+2015-08-04 12:41:31,166 - INFO - Loaded plugin STLWriter
+2015-08-04 12:41:31,174 - INFO - Loaded plugin GCodeWriter
+2015-08-04 12:41:31,179 - INFO - Loaded plugin CameraTool
+2015-08-04 12:41:31,186 - INFO - Loaded plugin MirrorTool
+2015-08-04 12:41:31,207 - INFO - Loaded plugin RotateTool
+2015-08-04 12:41:31,213 - INFO - Loaded plugin ScaleTool
+2015-08-04 12:41:31,217 - INFO - Loaded plugin SelectionTool
+2015-08-04 12:41:31,222 - INFO - Loaded plugin TranslateTool
+2015-08-04 12:41:31,228 - INFO - Checking for new version of cura
+2015-08-04 12:41:31,228 - INFO - Loaded plugin UpdateChecker
+2015-08-04 12:41:31,244 - INFO - Loaded plugin USBPrinting
+2015-08-04 12:41:31,256 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 12:41:31,517 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 12:41:31,527 - DEBUG - Backend connected on port 49674
+2015-08-04 12:41:31,593 - INFO - Found a new version of the software. Spawning message
+2015-08-04 12:41:32,357 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-04 12:42:29,227 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-04 12:42:30,457 - DEBUG - Killing engine process
+2015-08-04 12:42:30,705 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 12:42:30,969 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 12:42:30,972 - DEBUG - Backend connected on port 49674
+2015-08-04 13:01:02,885 - INFO - Loaded plugin FileLogger
+2015-08-04 13:01:03,113 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 13:01:03,124 - INFO - Loaded plugin MeshView
+2015-08-04 13:01:03,129 - INFO - Loaded plugin WireframeView
+2015-08-04 13:01:03,135 - INFO - Loaded plugin LayerView
+2015-08-04 13:01:03,138 - INFO - Loaded plugin OBJReader
+2015-08-04 13:01:03,140 - INFO - Loaded plugin STLReader
+2015-08-04 13:01:03,144 - INFO - Loaded plugin OBJWriter
+2015-08-04 13:01:03,147 - INFO - Loaded plugin STLWriter
+2015-08-04 13:01:03,152 - INFO - Loaded plugin GCodeWriter
+2015-08-04 13:01:03,156 - INFO - Loaded plugin CameraTool
+2015-08-04 13:01:03,162 - INFO - Loaded plugin MirrorTool
+2015-08-04 13:01:03,184 - INFO - Loaded plugin RotateTool
+2015-08-04 13:01:03,189 - INFO - Loaded plugin ScaleTool
+2015-08-04 13:01:03,194 - INFO - Loaded plugin SelectionTool
+2015-08-04 13:01:03,201 - INFO - Loaded plugin TranslateTool
+2015-08-04 13:01:03,207 - INFO - Checking for new version of cura
+2015-08-04 13:01:03,207 - INFO - Loaded plugin UpdateChecker
+2015-08-04 13:01:03,222 - INFO - Loaded plugin USBPrinting
+2015-08-04 13:01:03,236 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 13:01:03,499 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 13:01:03,511 - DEBUG - Backend connected on port 49674
+2015-08-04 13:01:03,809 - INFO - Found a new version of the software. Spawning message
+2015-08-04 13:01:04,282 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-04 13:14:27,160 - INFO - Loaded plugin FileLogger
+2015-08-04 13:14:27,391 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 13:14:27,403 - INFO - Loaded plugin MeshView
+2015-08-04 13:14:27,408 - INFO - Loaded plugin WireframeView
+2015-08-04 13:14:27,416 - INFO - Loaded plugin LayerView
+2015-08-04 13:14:27,419 - INFO - Loaded plugin OBJReader
+2015-08-04 13:14:27,422 - INFO - Loaded plugin STLReader
+2015-08-04 13:14:27,427 - INFO - Loaded plugin OBJWriter
+2015-08-04 13:14:27,431 - INFO - Loaded plugin STLWriter
+2015-08-04 13:14:27,436 - INFO - Loaded plugin GCodeWriter
+2015-08-04 13:14:27,440 - INFO - Loaded plugin CameraTool
+2015-08-04 13:14:27,446 - INFO - Loaded plugin MirrorTool
+2015-08-04 13:14:27,466 - INFO - Loaded plugin RotateTool
+2015-08-04 13:14:27,472 - INFO - Loaded plugin ScaleTool
+2015-08-04 13:14:27,478 - INFO - Loaded plugin SelectionTool
+2015-08-04 13:14:27,483 - INFO - Loaded plugin TranslateTool
+2015-08-04 13:14:27,489 - INFO - Checking for new version of cura
+2015-08-04 13:14:27,494 - INFO - Loaded plugin UpdateChecker
+2015-08-04 13:14:27,505 - INFO - Loaded plugin USBPrinting
+2015-08-04 13:14:27,515 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 13:14:27,808 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 13:14:27,818 - DEBUG - Backend connected on port 49674
+2015-08-04 13:14:28,144 - INFO - Found a new version of the software. Spawning message
+2015-08-04 13:31:06,634 - INFO - Loaded plugin FileLogger
+2015-08-04 13:31:06,863 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 13:31:06,874 - INFO - Loaded plugin MeshView
+2015-08-04 13:31:06,879 - INFO - Loaded plugin WireframeView
+2015-08-04 13:31:06,888 - INFO - Loaded plugin LayerView
+2015-08-04 13:31:06,891 - INFO - Loaded plugin OBJReader
+2015-08-04 13:31:06,893 - INFO - Loaded plugin STLReader
+2015-08-04 13:31:06,897 - INFO - Loaded plugin OBJWriter
+2015-08-04 13:31:06,900 - INFO - Loaded plugin STLWriter
+2015-08-04 13:31:06,905 - INFO - Loaded plugin GCodeWriter
+2015-08-04 13:31:06,911 - INFO - Loaded plugin CameraTool
+2015-08-04 13:31:06,917 - INFO - Loaded plugin MirrorTool
+2015-08-04 13:31:06,943 - INFO - Loaded plugin RotateTool
+2015-08-04 13:31:06,949 - INFO - Loaded plugin ScaleTool
+2015-08-04 13:31:06,954 - INFO - Loaded plugin SelectionTool
+2015-08-04 13:31:06,959 - INFO - Loaded plugin TranslateTool
+2015-08-04 13:31:06,965 - INFO - Checking for new version of cura
+2015-08-04 13:31:06,965 - INFO - Loaded plugin UpdateChecker
+2015-08-04 13:31:06,985 - INFO - Loaded plugin USBPrinting
+2015-08-04 13:31:06,999 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 13:31:07,267 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 13:31:07,280 - DEBUG - Backend connected on port 49674
+2015-08-04 13:31:07,575 - INFO - Found a new version of the software. Spawning message
+2015-08-04 13:31:08,126 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-04 13:32:15,210 - INFO - Checking for new version of cura
+2015-08-04 13:32:15,287 - INFO - Found a new version of the software. Spawning message
+2015-08-04 13:33:19,926 - INFO - Loaded plugin FileLogger
+2015-08-04 13:33:20,191 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 13:33:20,203 - INFO - Loaded plugin MeshView
+2015-08-04 13:33:20,210 - INFO - Loaded plugin WireframeView
+2015-08-04 13:33:20,220 - INFO - Loaded plugin LayerView
+2015-08-04 13:33:20,225 - INFO - Loaded plugin OBJReader
+2015-08-04 13:33:20,228 - INFO - Loaded plugin STLReader
+2015-08-04 13:33:20,232 - INFO - Loaded plugin OBJWriter
+2015-08-04 13:33:20,236 - INFO - Loaded plugin STLWriter
+2015-08-04 13:33:20,243 - INFO - Loaded plugin GCodeWriter
+2015-08-04 13:33:20,248 - INFO - Loaded plugin CameraTool
+2015-08-04 13:33:20,258 - INFO - Loaded plugin MirrorTool
+2015-08-04 13:33:20,284 - INFO - Loaded plugin RotateTool
+2015-08-04 13:33:20,294 - INFO - Loaded plugin ScaleTool
+2015-08-04 13:33:20,298 - INFO - Loaded plugin SelectionTool
+2015-08-04 13:33:20,304 - INFO - Loaded plugin TranslateTool
+2015-08-04 13:33:20,310 - INFO - Checking for new version of cura
+2015-08-04 13:33:20,311 - INFO - Loaded plugin UpdateChecker
+2015-08-04 13:33:20,330 - INFO - Loaded plugin USBPrinting
+2015-08-04 13:33:20,345 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 13:33:20,626 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 13:33:20,647 - DEBUG - Backend connected on port 49674
+2015-08-04 13:33:21,631 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-04 14:25:11,742 - INFO - Loaded plugin FileLogger
+2015-08-04 14:25:11,989 - INFO - Loaded plugin LocalFileStorage
+2015-08-04 14:25:12,004 - INFO - Loaded plugin MeshView
+2015-08-04 14:25:12,009 - INFO - Loaded plugin WireframeView
+2015-08-04 14:25:12,019 - INFO - Loaded plugin LayerView
+2015-08-04 14:25:12,022 - INFO - Loaded plugin OBJReader
+2015-08-04 14:25:12,025 - INFO - Loaded plugin STLReader
+2015-08-04 14:25:12,028 - INFO - Loaded plugin OBJWriter
+2015-08-04 14:25:12,032 - INFO - Loaded plugin STLWriter
+2015-08-04 14:25:12,038 - INFO - Loaded plugin GCodeWriter
+2015-08-04 14:25:12,043 - INFO - Loaded plugin CameraTool
+2015-08-04 14:25:12,053 - INFO - Loaded plugin MirrorTool
+2015-08-04 14:25:12,079 - INFO - Loaded plugin RotateTool
+2015-08-04 14:25:12,085 - INFO - Loaded plugin ScaleTool
+2015-08-04 14:25:12,089 - INFO - Loaded plugin SelectionTool
+2015-08-04 14:25:12,095 - INFO - Loaded plugin TranslateTool
+2015-08-04 14:25:12,101 - INFO - Checking for new version of cura
+2015-08-04 14:25:12,101 - INFO - Loaded plugin UpdateChecker
+2015-08-04 14:25:12,121 - INFO - Loaded plugin USBPrinting
+2015-08-04 14:25:12,134 - INFO - Loaded plugin CuraEngineBackend
+2015-08-04 14:25:12,415 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 14:25:12,439 - DEBUG - Backend connected on port 49674
+2015-08-04 14:25:13,501 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-04 14:54:32,855 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-04 14:54:51,166 - DEBUG - Writing GCode to file /Users/theodorsjostedt/Downloads/vertex.gcode
+2015-08-04 15:39:27,374 - DEBUG - Loaded a mesh with 10236 vertices
+2015-08-04 15:40:08,080 - DEBUG - Loaded a mesh with 10236 vertices
+2015-08-04 16:01:41,557 - DEBUG - Killing engine process
+2015-08-04 16:01:41,790 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:01:42,100 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:01:42,128 - DEBUG - Backend connected on port 49674
+2015-08-04 16:03:41,797 - DEBUG - Killing engine process
+2015-08-04 16:03:42,250 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:03:42,527 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:03:42,531 - DEBUG - Backend connected on port 49674
+2015-08-04 16:03:58,270 - DEBUG - Killing engine process
+2015-08-04 16:03:58,617 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:03:58,916 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:03:58,928 - DEBUG - Backend connected on port 49674
+2015-08-04 16:04:09,234 - DEBUG - Killing engine process
+2015-08-04 16:04:09,432 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:04:09,711 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:04:09,714 - DEBUG - Backend connected on port 49674
+2015-08-04 16:05:00,656 - DEBUG - Killing engine process
+2015-08-04 16:05:00,954 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:05:01,234 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:05:01,240 - DEBUG - Backend connected on port 49674
+2015-08-04 16:05:02,727 - DEBUG - Killing engine process
+2015-08-04 16:05:03,018 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:05:03,292 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:05:03,295 - DEBUG - Backend connected on port 49674
+2015-08-04 16:06:02,720 - DEBUG - Killing engine process
+2015-08-04 16:06:03,126 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:06:03,405 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:06:03,408 - DEBUG - Backend connected on port 49674
+2015-08-04 16:06:12,147 - DEBUG - Killing engine process
+2015-08-04 16:06:12,576 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:06:12,855 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:06:12,857 - DEBUG - Backend connected on port 49674
+2015-08-04 16:06:19,538 - DEBUG - Killing engine process
+2015-08-04 16:06:19,787 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 16:06:20,071 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 16:06:20,079 - DEBUG - Backend connected on port 49674
+2015-08-04 16:06:51,267 - DEBUG - Writing GCode to file /Volumes/Untitled/Touring_Bike_V2_ordered.gcode
+2015-08-04 19:30:24,695 - DEBUG - Killing engine process
+2015-08-04 19:30:25,086 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 19:30:25,375 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 19:30:25,387 - DEBUG - Backend connected on port 49674
+2015-08-04 19:30:26,447 - DEBUG - Killing engine process
+2015-08-04 19:30:26,655 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 19:30:26,930 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 19:30:26,934 - DEBUG - Backend connected on port 49674
+2015-08-04 19:30:29,325 - DEBUG - Killing engine process
+2015-08-04 19:30:29,707 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 19:30:29,983 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 19:30:29,986 - DEBUG - Backend connected on port 49674
+2015-08-04 19:30:31,494 - DEBUG - Killing engine process
+2015-08-04 19:30:31,753 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 19:30:32,043 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 19:30:32,046 - DEBUG - Backend connected on port 49674
+2015-08-04 19:30:33,331 - DEBUG - Killing engine process
+2015-08-04 19:30:33,815 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 19:30:34,092 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 19:30:34,096 - DEBUG - Backend connected on port 49674
+2015-08-04 20:38:19,225 - DEBUG - Writing GCode to file /Volumes/Untitled/Touring_Bike_V2_ordered.gcode
+2015-08-04 20:45:50,345 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-04 20:45:51,632 - DEBUG - Killing engine process
+2015-08-04 20:45:51,956 - INFO - Backend crashed or closed. Restarting...
+2015-08-04 20:45:52,238 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-04 20:45:52,243 - DEBUG - Backend connected on port 49674
+2015-08-04 20:50:34,081 - DEBUG - Loaded a mesh with 6228 vertices
+2015-08-04 20:52:36,308 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-04 20:53:42,512 - DEBUG - Writing GCode to file /Volumes/Untitled/vertex_logo.gcode
+2015-08-04 20:53:50,612 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-05 17:26:59,932 - DEBUG - Loaded a mesh with 372 vertices
+2015-08-05 17:28:21,993 - DEBUG - Killing engine process
+2015-08-05 17:28:22,213 - INFO - Backend crashed or closed. Restarting...
+2015-08-05 17:28:22,503 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-05 17:28:22,533 - DEBUG - Backend connected on port 49674
+2015-08-05 17:38:43,030 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,034 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,034 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,035 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,035 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,036 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,036 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,042 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,043 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,045 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,046 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,047 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,047 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,048 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,048 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,049 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,051 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,052 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:43,524 - DEBUG - Killing engine process
+2015-08-05 17:38:43,661 - INFO - Backend crashed or closed. Restarting...
+2015-08-05 17:38:43,970 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-05 17:38:43,975 - DEBUG - Backend connected on port 49674
+2015-08-05 17:38:44,502 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,503 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,504 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,505 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,505 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,506 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,507 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,507 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,508 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,510 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,511 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,512 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,512 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,513 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,514 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,514 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,516 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:38:44,517 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,692 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,694 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,695 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,696 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,696 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,697 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,698 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,772 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,773 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,796 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,797 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,798 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,799 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,799 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,800 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,801 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,802 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:35,803 - ERROR - An error occurred in inherit function for wall_line_width: float division by zero
+2015-08-05 17:39:36,815 - DEBUG - Killing engine process
+2015-08-05 17:39:37,305 - INFO - Backend crashed or closed. Restarting...
+2015-08-05 17:39:37,769 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-05 17:39:37,777 - DEBUG - Backend connected on port 49674
+2015-08-05 17:39:39,082 - DEBUG - Killing engine process
+2015-08-05 17:39:39,083 - INFO - Backend crashed or closed. Restarting...
+2015-08-05 17:39:39,481 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-05 17:39:39,506 - DEBUG - Backend connected on port 49674
+2015-08-06 10:00:05,093 - INFO - Loaded plugin FileLogger
+2015-08-06 10:00:05,352 - INFO - Loaded plugin LocalFileStorage
+2015-08-06 10:00:05,368 - INFO - Loaded plugin MeshView
+2015-08-06 10:00:05,373 - INFO - Loaded plugin WireframeView
+2015-08-06 10:00:05,382 - INFO - Loaded plugin LayerView
+2015-08-06 10:00:05,385 - INFO - Loaded plugin OBJReader
+2015-08-06 10:00:05,388 - INFO - Loaded plugin STLReader
+2015-08-06 10:00:05,391 - INFO - Loaded plugin OBJWriter
+2015-08-06 10:00:05,394 - INFO - Loaded plugin STLWriter
+2015-08-06 10:00:05,399 - INFO - Loaded plugin GCodeWriter
+2015-08-06 10:00:05,404 - INFO - Loaded plugin CameraTool
+2015-08-06 10:00:05,413 - INFO - Loaded plugin MirrorTool
+2015-08-06 10:00:05,437 - INFO - Loaded plugin RotateTool
+2015-08-06 10:00:05,443 - INFO - Loaded plugin ScaleTool
+2015-08-06 10:00:05,449 - INFO - Loaded plugin SelectionTool
+2015-08-06 10:00:05,455 - INFO - Loaded plugin TranslateTool
+2015-08-06 10:00:05,461 - INFO - Checking for new version of cura
+2015-08-06 10:00:05,461 - INFO - Loaded plugin UpdateChecker
+2015-08-06 10:00:05,479 - INFO - Loaded plugin USBPrinting
+2015-08-06 10:00:05,491 - INFO - Loaded plugin CuraEngineBackend
+2015-08-06 10:00:05,748 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 10:00:05,773 - DEBUG - Backend connected on port 49674
+2015-08-06 10:00:06,713 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-06 10:00:16,867 - DEBUG - Loaded a mesh with 960 vertices
+2015-08-06 10:00:30,581 - DEBUG - Killing engine process
+2015-08-06 10:00:30,831 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 10:00:31,102 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 10:00:31,107 - DEBUG - Backend connected on port 49674
+2015-08-06 15:28:32,298 - INFO - Loaded plugin FileLogger
+2015-08-06 15:28:32,557 - INFO - Loaded plugin LocalFileStorage
+2015-08-06 15:28:32,572 - INFO - Loaded plugin MeshView
+2015-08-06 15:28:32,579 - INFO - Loaded plugin WireframeView
+2015-08-06 15:28:32,588 - INFO - Loaded plugin LayerView
+2015-08-06 15:28:32,592 - INFO - Loaded plugin OBJReader
+2015-08-06 15:28:32,595 - INFO - Loaded plugin STLReader
+2015-08-06 15:28:32,599 - INFO - Loaded plugin OBJWriter
+2015-08-06 15:28:32,602 - INFO - Loaded plugin STLWriter
+2015-08-06 15:28:32,609 - INFO - Loaded plugin GCodeWriter
+2015-08-06 15:28:32,619 - INFO - Loaded plugin CameraTool
+2015-08-06 15:28:32,627 - INFO - Loaded plugin MirrorTool
+2015-08-06 15:28:32,654 - INFO - Loaded plugin RotateTool
+2015-08-06 15:28:32,661 - INFO - Loaded plugin ScaleTool
+2015-08-06 15:28:32,666 - INFO - Loaded plugin SelectionTool
+2015-08-06 15:28:32,671 - INFO - Loaded plugin TranslateTool
+2015-08-06 15:28:32,679 - INFO - Checking for new version of cura
+2015-08-06 15:28:32,679 - INFO - Loaded plugin UpdateChecker
+2015-08-06 15:28:32,699 - INFO - Loaded plugin USBPrinting
+2015-08-06 15:28:32,711 - INFO - Loaded plugin CuraEngineBackend
+2015-08-06 15:28:32,967 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:28:32,986 - DEBUG - Backend connected on port 49674
+2015-08-06 15:28:33,867 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-06 15:28:48,742 - DEBUG - Loaded a mesh with 960 vertices
+2015-08-06 15:29:16,976 - DEBUG - Loaded a mesh with 10452 vertices
+2015-08-06 15:29:17,945 - DEBUG - Killing engine process
+2015-08-06 15:29:18,318 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:29:18,585 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:29:18,598 - DEBUG - Backend connected on port 49674
+2015-08-06 15:29:28,200 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-06 15:29:29,528 - DEBUG - Killing engine process
+2015-08-06 15:29:29,999 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:29:30,266 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:29:30,268 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:06,034 - DEBUG - Killing engine process
+2015-08-06 15:30:06,131 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:06,394 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:06,418 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:21,126 - DEBUG - Killing engine process
+2015-08-06 15:30:21,455 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:21,719 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:21,721 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:40,516 - DEBUG - Killing engine process
+2015-08-06 15:30:40,810 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:41,079 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:41,082 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:44,287 - DEBUG - Killing engine process
+2015-08-06 15:30:44,423 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:44,715 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:44,717 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:50,446 - DEBUG - Killing engine process
+2015-08-06 15:30:50,595 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:50,859 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:50,862 - DEBUG - Backend connected on port 49674
+2015-08-06 15:30:51,921 - DEBUG - Killing engine process
+2015-08-06 15:30:52,131 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:30:52,397 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:30:52,400 - DEBUG - Backend connected on port 49674
+2015-08-06 15:32:14,578 - DEBUG - Loaded a mesh with 142464 vertices
+2015-08-06 15:32:15,267 - DEBUG - Killing engine process
+2015-08-06 15:32:15,304 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:32:15,592 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:32:15,596 - DEBUG - Backend connected on port 49674
+2015-08-06 15:33:11,268 - DEBUG - Loaded a mesh with 72 vertices
+2015-08-06 15:34:27,514 - DEBUG - Loaded a mesh with 4032 vertices
+2015-08-06 15:51:54,859 - DEBUG - Loaded a mesh with 156 vertices
+2015-08-06 15:51:55,561 - DEBUG - Killing engine process
+2015-08-06 15:51:55,831 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 15:51:56,114 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 15:51:56,120 - DEBUG - Backend connected on port 49674
+2015-08-06 15:55:50,973 - DEBUG - Writing GCode to file /Volumes/Untitled/Hollow_Pyramid.gcode
+2015-08-06 15:55:51,984 - DEBUG - Writing GCode to file /Volumes/Untitled/Hollow_Pyramid.gcode
+2015-08-06 15:55:59,477 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-06 16:19:28,644 - DEBUG - Loaded a mesh with 12456 vertices
+2015-08-06 16:19:39,239 - DEBUG - Loaded a mesh with 9996 vertices
+2015-08-06 16:19:50,254 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-06 16:21:08,155 - DEBUG - Killing engine process
+2015-08-06 16:21:08,197 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:21:08,475 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:21:08,495 - DEBUG - Backend connected on port 49674
+2015-08-06 16:21:28,839 - DEBUG - Killing engine process
+2015-08-06 16:21:29,208 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:21:29,492 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:21:29,501 - DEBUG - Backend connected on port 49674
+2015-08-06 16:21:43,591 - DEBUG - Killing engine process
+2015-08-06 16:21:43,830 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:21:44,105 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:21:44,109 - DEBUG - Backend connected on port 49674
+2015-08-06 16:21:46,557 - DEBUG - Killing engine process
+2015-08-06 16:21:46,930 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:21:47,204 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:21:47,206 - DEBUG - Backend connected on port 49674
+2015-08-06 16:24:53,648 - DEBUG - Killing engine process
+2015-08-06 16:24:54,055 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:24:54,351 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:24:54,362 - DEBUG - Backend connected on port 49674
+2015-08-06 16:24:56,226 - DEBUG - Killing engine process
+2015-08-06 16:24:56,662 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:24:56,945 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:24:56,948 - DEBUG - Backend connected on port 49674
+2015-08-06 16:24:58,791 - DEBUG - Killing engine process
+2015-08-06 16:24:59,231 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:24:59,509 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:24:59,511 - DEBUG - Backend connected on port 49674
+2015-08-06 16:25:25,205 - DEBUG - Loaded a mesh with 12456 vertices
+2015-08-06 16:25:43,104 - DEBUG - Loaded a mesh with 9996 vertices
+2015-08-06 16:25:59,196 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-06 16:26:08,790 - DEBUG - Killing engine process
+2015-08-06 16:26:09,237 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:26:09,515 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:26:09,519 - DEBUG - Backend connected on port 49674
+2015-08-06 16:26:17,418 - DEBUG - Killing engine process
+2015-08-06 16:26:17,868 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:26:18,136 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:26:18,138 - DEBUG - Backend connected on port 49674
+2015-08-06 16:27:20,911 - DEBUG - Killing engine process
+2015-08-06 16:27:21,343 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:27:21,636 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:27:21,647 - DEBUG - Backend connected on port 49674
+2015-08-06 16:27:22,128 - DEBUG - Killing engine process
+2015-08-06 16:27:22,400 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:27:22,671 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:27:22,674 - DEBUG - Backend connected on port 49674
+2015-08-06 16:30:16,714 - DEBUG - Loaded a mesh with 6228 vertices
+2015-08-06 16:31:57,175 - DEBUG - Loaded a mesh with 6228 vertices
+2015-08-06 16:38:30,200 - INFO - Loaded plugin FileLogger
+2015-08-06 16:38:30,440 - INFO - Loaded plugin LocalFileStorage
+2015-08-06 16:38:30,452 - INFO - Loaded plugin MeshView
+2015-08-06 16:38:30,458 - INFO - Loaded plugin WireframeView
+2015-08-06 16:38:30,466 - INFO - Loaded plugin LayerView
+2015-08-06 16:38:30,469 - INFO - Loaded plugin OBJReader
+2015-08-06 16:38:30,472 - INFO - Loaded plugin STLReader
+2015-08-06 16:38:30,476 - INFO - Loaded plugin OBJWriter
+2015-08-06 16:38:30,480 - INFO - Loaded plugin STLWriter
+2015-08-06 16:38:30,489 - INFO - Loaded plugin GCodeWriter
+2015-08-06 16:38:30,496 - INFO - Loaded plugin CameraTool
+2015-08-06 16:38:30,503 - INFO - Loaded plugin MirrorTool
+2015-08-06 16:38:30,527 - INFO - Loaded plugin RotateTool
+2015-08-06 16:38:30,533 - INFO - Loaded plugin ScaleTool
+2015-08-06 16:38:30,540 - INFO - Loaded plugin SelectionTool
+2015-08-06 16:38:30,547 - INFO - Loaded plugin TranslateTool
+2015-08-06 16:38:30,556 - INFO - Checking for new version of cura
+2015-08-06 16:38:30,556 - INFO - Loaded plugin UpdateChecker
+2015-08-06 16:38:30,577 - INFO - Loaded plugin USBPrinting
+2015-08-06 16:38:30,587 - INFO - Loaded plugin CuraEngineBackend
+2015-08-06 16:38:30,854 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:38:30,872 - DEBUG - Backend connected on port 49674
+2015-08-06 16:38:31,640 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-06 16:38:37,383 - DEBUG - Loaded a mesh with 6228 vertices
+2015-08-06 16:41:57,542 - DEBUG - Killing engine process
+2015-08-06 16:41:57,950 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 16:41:58,224 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:41:58,230 - DEBUG - Backend connected on port 49674
+2015-08-06 16:43:03,819 - DEBUG - Writing GCode to file /Volumes/Untitled/8mm_rod_calibration.gcode
+2015-08-06 16:43:10,851 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-06 16:59:38,394 - INFO - Loaded plugin FileLogger
+2015-08-06 16:59:38,637 - INFO - Loaded plugin LocalFileStorage
+2015-08-06 16:59:38,648 - INFO - Loaded plugin MeshView
+2015-08-06 16:59:38,654 - INFO - Loaded plugin WireframeView
+2015-08-06 16:59:38,660 - INFO - Loaded plugin LayerView
+2015-08-06 16:59:38,663 - INFO - Loaded plugin OBJReader
+2015-08-06 16:59:38,666 - INFO - Loaded plugin STLReader
+2015-08-06 16:59:38,670 - INFO - Loaded plugin OBJWriter
+2015-08-06 16:59:38,673 - INFO - Loaded plugin STLWriter
+2015-08-06 16:59:38,682 - INFO - Loaded plugin GCodeWriter
+2015-08-06 16:59:38,686 - INFO - Loaded plugin CameraTool
+2015-08-06 16:59:38,697 - INFO - Loaded plugin MirrorTool
+2015-08-06 16:59:38,734 - INFO - Loaded plugin RotateTool
+2015-08-06 16:59:38,744 - INFO - Loaded plugin ScaleTool
+2015-08-06 16:59:38,750 - INFO - Loaded plugin SelectionTool
+2015-08-06 16:59:38,757 - INFO - Loaded plugin TranslateTool
+2015-08-06 16:59:38,765 - INFO - Checking for new version of cura
+2015-08-06 16:59:38,766 - INFO - Loaded plugin UpdateChecker
+2015-08-06 16:59:38,781 - INFO - Loaded plugin USBPrinting
+2015-08-06 16:59:38,792 - INFO - Loaded plugin CuraEngineBackend
+2015-08-06 16:59:39,052 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 16:59:39,065 - DEBUG - Backend connected on port 49674
+2015-08-06 16:59:39,827 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-06 16:59:50,961 - DEBUG - Loaded a mesh with 6228 vertices
+2015-08-06 18:00:31,312 - DEBUG - Loaded a mesh with 156 vertices
+2015-08-06 18:00:58,375 - DEBUG - Killing engine process
+2015-08-06 18:00:58,396 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:00:58,670 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:00:58,680 - DEBUG - Backend connected on port 49674
+2015-08-06 18:01:00,225 - DEBUG - Killing engine process
+2015-08-06 18:01:00,441 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:01:00,715 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:01:00,718 - DEBUG - Backend connected on port 49674
+2015-08-06 18:01:07,249 - DEBUG - Killing engine process
+2015-08-06 18:01:07,742 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:01:08,012 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:01:08,038 - DEBUG - Backend connected on port 49674
+2015-08-06 18:01:09,171 - DEBUG - Killing engine process
+2015-08-06 18:01:09,305 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:01:09,574 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:01:09,576 - DEBUG - Backend connected on port 49674
+2015-08-06 18:02:03,727 - DEBUG - Writing GCode to file /Volumes/Untitled/triangle necklace 1.gcode
+2015-08-06 18:02:08,928 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-06 18:36:53,814 - DEBUG - Loaded a mesh with 1296 vertices
+2015-08-06 18:36:54,427 - DEBUG - Killing engine process
+2015-08-06 18:36:54,547 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:36:54,819 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:36:54,826 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:12,053 - DEBUG - Killing engine process
+2015-08-06 18:37:12,091 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:12,373 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:12,381 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:14,293 - DEBUG - Killing engine process
+2015-08-06 18:37:14,700 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:14,971 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:15,010 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:30,921 - DEBUG - Killing engine process
+2015-08-06 18:37:31,248 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:31,517 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:31,520 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:32,960 - DEBUG - Killing engine process
+2015-08-06 18:37:33,299 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:33,573 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:33,576 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:36,437 - DEBUG - Killing engine process
+2015-08-06 18:37:36,926 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:37,220 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:37,245 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:38,206 - DEBUG - Killing engine process
+2015-08-06 18:37:38,503 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:38,770 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:38,773 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:45,508 - DEBUG - Killing engine process
+2015-08-06 18:37:45,743 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:46,012 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:46,017 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:48,391 - DEBUG - Killing engine process
+2015-08-06 18:37:48,869 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:49,138 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:49,141 - DEBUG - Backend connected on port 49674
+2015-08-06 18:37:52,210 - DEBUG - Killing engine process
+2015-08-06 18:37:52,539 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:37:52,830 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:37:52,853 - DEBUG - Backend connected on port 49674
+2015-08-06 18:38:06,917 - DEBUG - Killing engine process
+2015-08-06 18:38:07,026 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:38:07,304 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:38:07,309 - DEBUG - Backend connected on port 49674
+2015-08-06 18:38:11,382 - DEBUG - Killing engine process
+2015-08-06 18:38:11,692 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:38:11,962 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:38:11,964 - DEBUG - Backend connected on port 49674
+2015-08-06 18:38:14,378 - DEBUG - Killing engine process
+2015-08-06 18:38:14,873 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:38:15,142 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:38:15,144 - DEBUG - Backend connected on port 49674
+2015-08-06 18:38:18,448 - DEBUG - Killing engine process
+2015-08-06 18:38:18,596 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 18:38:18,870 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 18:38:18,872 - DEBUG - Backend connected on port 49674
+2015-08-06 18:38:40,724 - DEBUG - Writing GCode to file /Volumes/Untitled/cloud 1.gcode
+2015-08-06 18:38:44,099 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-06 19:42:52,375 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-06 19:42:53,037 - DEBUG - Killing engine process
+2015-08-06 19:42:53,391 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 19:42:53,681 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 19:42:53,694 - DEBUG - Backend connected on port 49674
+2015-08-06 19:44:20,717 - DEBUG - Loaded a mesh with 12456 vertices
+2015-08-06 19:44:59,460 - DEBUG - Killing engine process
+2015-08-06 19:45:00,107 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 19:45:00,395 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 19:45:00,403 - DEBUG - Backend connected on port 49674
+2015-08-06 19:47:56,467 - DEBUG - Loaded a mesh with 9996 vertices
+2015-08-06 21:33:53,946 - DEBUG - Killing engine process
+2015-08-06 21:33:54,076 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 21:33:54,385 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:33:54,402 - DEBUG - Backend connected on port 49674
+2015-08-06 21:35:32,988 - DEBUG - Killing engine process
+2015-08-06 21:35:33,221 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 21:35:33,503 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:35:33,513 - DEBUG - Backend connected on port 49674
+2015-08-06 21:35:36,030 - DEBUG - Killing engine process
+2015-08-06 21:35:36,326 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 21:35:36,603 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:35:36,606 - DEBUG - Backend connected on port 49674
+2015-08-06 21:36:00,856 - INFO - Loaded plugin FileLogger
+2015-08-06 21:36:01,111 - INFO - Loaded plugin LocalFileStorage
+2015-08-06 21:36:01,122 - INFO - Loaded plugin MeshView
+2015-08-06 21:36:01,128 - INFO - Loaded plugin WireframeView
+2015-08-06 21:36:01,136 - INFO - Loaded plugin LayerView
+2015-08-06 21:36:01,139 - INFO - Loaded plugin OBJReader
+2015-08-06 21:36:01,141 - INFO - Loaded plugin STLReader
+2015-08-06 21:36:01,145 - INFO - Loaded plugin OBJWriter
+2015-08-06 21:36:01,148 - INFO - Loaded plugin STLWriter
+2015-08-06 21:36:01,154 - INFO - Loaded plugin GCodeWriter
+2015-08-06 21:36:01,159 - INFO - Loaded plugin CameraTool
+2015-08-06 21:36:01,166 - INFO - Loaded plugin MirrorTool
+2015-08-06 21:36:01,192 - INFO - Loaded plugin RotateTool
+2015-08-06 21:36:01,199 - INFO - Loaded plugin ScaleTool
+2015-08-06 21:36:01,204 - INFO - Loaded plugin SelectionTool
+2015-08-06 21:36:01,208 - INFO - Loaded plugin TranslateTool
+2015-08-06 21:36:01,214 - INFO - Checking for new version of cura
+2015-08-06 21:36:01,214 - INFO - Loaded plugin UpdateChecker
+2015-08-06 21:36:01,231 - INFO - Loaded plugin USBPrinting
+2015-08-06 21:36:01,240 - INFO - Loaded plugin CuraEngineBackend
+2015-08-06 21:36:01,512 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:36:01,533 - DEBUG - Backend connected on port 49674
+2015-08-06 21:36:02,494 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-06 21:36:22,269 - DEBUG - Loaded a mesh with 9996 vertices
+2015-08-06 21:36:37,019 - DEBUG - Loaded a mesh with 12456 vertices
+2015-08-06 21:36:42,767 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-06 21:36:53,272 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-06 21:37:01,396 - DEBUG - Killing engine process
+2015-08-06 21:37:01,658 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 21:37:01,922 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:37:01,929 - DEBUG - Backend connected on port 49674
+2015-08-06 21:37:23,086 - DEBUG - Killing engine process
+2015-08-06 21:37:23,357 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 21:37:23,640 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 21:37:23,650 - DEBUG - Backend connected on port 49674
+2015-08-06 22:16:41,026 - DEBUG - Loaded a mesh with 88818 vertices
+2015-08-06 22:17:00,396 - DEBUG - Killing engine process
+2015-08-06 22:17:00,882 - INFO - Backend crashed or closed. Restarting...
+2015-08-06 22:17:01,168 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-06 22:17:01,199 - DEBUG - Backend connected on port 49674
+2015-08-07 11:36:47,270 - DEBUG - Loaded a mesh with 12030 vertices
+2015-08-07 11:37:09,445 - DEBUG - Writing GCode to file /Volumes/Untitled/belt_tensioner.gcode
+2015-08-07 11:37:12,603 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-08 18:35:47,140 - DEBUG - Loaded a mesh with 624 vertices
+2015-08-08 18:35:54,607 - DEBUG - Killing engine process
+2015-08-08 18:35:54,672 - INFO - Backend crashed or closed. Restarting...
+2015-08-08 18:35:54,965 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-08 18:35:54,979 - DEBUG - Backend connected on port 49674
+2015-08-08 18:36:05,706 - DEBUG - Killing engine process
+2015-08-08 18:36:05,899 - INFO - Backend crashed or closed. Restarting...
+2015-08-08 18:36:06,184 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-08 18:36:06,188 - DEBUG - Backend connected on port 49674
+2015-08-08 18:36:19,787 - DEBUG - Writing GCode to file /Volumes/Untitled/calibration 20mm.gcode
+2015-08-08 18:36:26,079 - DEBUG - Ejecting Untitled mounted at /Volumes/Untitled
+2015-08-10 00:12:27,510 - DEBUG - Writing GCode to file /Users/theodorsjostedt/Dropbox/3dprints/20 mm oval.gcode
+2015-08-14 11:15:17,633 - INFO - Loaded plugin FileLogger
+2015-08-14 11:15:17,912 - INFO - Loaded plugin LocalFileStorage
+2015-08-14 11:15:17,925 - INFO - Loaded plugin MeshView
+2015-08-14 11:15:17,930 - INFO - Loaded plugin WireframeView
+2015-08-14 11:15:17,939 - INFO - Loaded plugin LayerView
+2015-08-14 11:15:17,942 - INFO - Loaded plugin OBJReader
+2015-08-14 11:15:17,945 - INFO - Loaded plugin STLReader
+2015-08-14 11:15:17,948 - INFO - Loaded plugin OBJWriter
+2015-08-14 11:15:17,951 - INFO - Loaded plugin STLWriter
+2015-08-14 11:15:17,957 - INFO - Loaded plugin GCodeWriter
+2015-08-14 11:15:17,961 - INFO - Loaded plugin CameraTool
+2015-08-14 11:15:17,979 - INFO - Loaded plugin MirrorTool
+2015-08-14 11:15:18,011 - INFO - Loaded plugin RotateTool
+2015-08-14 11:15:18,017 - INFO - Loaded plugin ScaleTool
+2015-08-14 11:15:18,025 - INFO - Loaded plugin SelectionTool
+2015-08-14 11:15:18,030 - INFO - Loaded plugin TranslateTool
+2015-08-14 11:15:18,036 - INFO - Checking for new version of cura
+2015-08-14 11:15:18,036 - INFO - Loaded plugin UpdateChecker
+2015-08-14 11:15:18,058 - INFO - Loaded plugin USBPrinting
+2015-08-14 11:15:18,073 - INFO - Loaded plugin CuraEngineBackend
+2015-08-14 11:15:18,336 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-14 11:15:18,353 - DEBUG - Backend connected on port 49674
+2015-08-14 11:15:19,360 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-14 11:15:42,172 - DEBUG - Loaded a mesh with 1070562 vertices
+2015-08-14 11:16:53,617 - DEBUG - Killing engine process
+2015-08-14 11:16:54,081 - INFO - Backend crashed or closed. Restarting...
+2015-08-14 11:16:54,365 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-14 11:16:54,375 - DEBUG - Backend connected on port 49674
+2015-08-14 11:16:56,312 - DEBUG - Killing engine process
+2015-08-14 11:16:56,317 - INFO - Backend crashed or closed. Restarting...
+2015-08-14 11:16:56,618 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-14 11:16:56,622 - DEBUG - Backend connected on port 49674
+2015-08-14 11:16:58,932 - DEBUG - Killing engine process
+2015-08-14 11:16:59,055 - INFO - Backend crashed or closed. Restarting...
+2015-08-14 11:16:59,342 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-14 11:16:59,383 - DEBUG - Backend connected on port 49674
+2015-08-14 11:17:00,721 - DEBUG - Killing engine process
+2015-08-14 11:17:00,793 - INFO - Backend crashed or closed. Restarting...
+2015-08-14 11:17:01,146 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-14 11:17:01,195 - DEBUG - Backend connected on port 49674
+2015-08-16 18:58:15,871 - DEBUG - Loaded a mesh with 576 vertices
+2015-08-16 18:59:09,374 - DEBUG - Killing engine process
+2015-08-16 18:59:09,579 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 18:59:09,872 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 18:59:09,883 - DEBUG - Backend connected on port 49674
+2015-08-16 18:59:11,400 - DEBUG - Killing engine process
+2015-08-16 18:59:11,670 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 18:59:11,972 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 18:59:11,982 - DEBUG - Backend connected on port 49674
+2015-08-16 18:59:47,134 - DEBUG - Writing GCode to file /Users/theodorsjostedt/Dropbox/3dprints/cirlce.gcode
+2015-08-16 19:01:43,051 - DEBUG - Killing engine process
+2015-08-16 19:01:43,359 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 19:01:43,778 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 19:01:43,800 - DEBUG - Backend connected on port 49674
+2015-08-16 19:01:44,284 - DEBUG - Killing engine process
+2015-08-16 19:01:44,288 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 19:01:44,588 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 19:01:44,594 - DEBUG - Backend connected on port 49674
+2015-08-16 19:02:01,480 - DEBUG - Writing GCode to file /Users/theodorsjostedt/Dropbox/3dprints/circle.gcode
+2015-08-16 19:10:44,315 - DEBUG - Loaded a mesh with 156 vertices
+2015-08-16 19:10:45,001 - DEBUG - Killing engine process
+2015-08-16 19:10:45,170 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 19:10:45,494 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 19:10:45,501 - DEBUG - Backend connected on port 49674
+2015-08-16 19:10:55,645 - DEBUG - Killing engine process
+2015-08-16 19:10:55,719 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 19:10:56,009 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 19:10:56,014 - DEBUG - Backend connected on port 49674
+2015-08-16 19:11:05,425 - DEBUG - Killing engine process
+2015-08-16 19:11:05,917 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 19:11:06,210 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 19:11:06,213 - DEBUG - Backend connected on port 49674
+2015-08-16 19:11:23,976 - DEBUG - Writing GCode to file /Volumes/Untitled/triangle necklace 1.gcode
+2015-08-16 21:16:17,533 - DEBUG - Loaded a mesh with 48 vertices
+2015-08-16 21:16:18,251 - DEBUG - Killing engine process
+2015-08-16 21:16:18,615 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 21:16:18,913 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 21:16:18,948 - DEBUG - Backend connected on port 49674
+2015-08-16 21:16:45,098 - DEBUG - Loaded a mesh with 48 vertices
+2015-08-16 21:16:45,780 - DEBUG - Killing engine process
+2015-08-16 21:16:45,848 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 21:16:46,147 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 21:16:46,152 - DEBUG - Backend connected on port 49674
+2015-08-16 21:16:54,882 - DEBUG - Loaded a mesh with 36 vertices
+2015-08-16 21:16:55,705 - DEBUG - Killing engine process
+2015-08-16 21:16:56,003 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 21:16:56,372 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 21:16:56,401 - DEBUG - Backend connected on port 49674
+2015-08-16 21:17:03,104 - DEBUG - Killing engine process
+2015-08-16 21:17:03,265 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 21:17:03,599 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 21:17:03,605 - DEBUG - Backend connected on port 49674
+2015-08-16 21:17:07,820 - DEBUG - Killing engine process
+2015-08-16 21:17:08,063 - INFO - Backend crashed or closed. Restarting...
+2015-08-16 21:17:08,362 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-16 21:17:08,365 - DEBUG - Backend connected on port 49674
+2015-08-18 21:42:58,072 - DEBUG - Attempting to connect to /dev/cu.usbserial-A6043GZM
+2015-08-18 21:43:40,467 - INFO - Could not establish connection on /dev/cu.usbserial-A6043GZM: 'Timeout'. Device is not arduino based.
+2015-08-18 21:43:40,468 - INFO - Could not establish connection on /dev/cu.usbserial-A6043GZM, unknown reasons.
+2015-08-19 20:26:00,533 - INFO - Loaded plugin FileLogger
+2015-08-19 20:26:00,808 - INFO - Loaded plugin LocalFileStorage
+2015-08-19 20:26:00,824 - INFO - Loaded plugin MeshView
+2015-08-19 20:26:00,831 - INFO - Loaded plugin WireframeView
+2015-08-19 20:26:00,843 - INFO - Loaded plugin LayerView
+2015-08-19 20:26:00,848 - INFO - Loaded plugin OBJReader
+2015-08-19 20:26:00,851 - INFO - Loaded plugin STLReader
+2015-08-19 20:26:00,855 - INFO - Loaded plugin OBJWriter
+2015-08-19 20:26:00,859 - INFO - Loaded plugin STLWriter
+2015-08-19 20:26:00,867 - INFO - Loaded plugin GCodeWriter
+2015-08-19 20:26:00,875 - INFO - Loaded plugin CameraTool
+2015-08-19 20:26:00,886 - INFO - Loaded plugin MirrorTool
+2015-08-19 20:26:00,910 - INFO - Loaded plugin RotateTool
+2015-08-19 20:26:00,916 - INFO - Loaded plugin ScaleTool
+2015-08-19 20:26:00,921 - INFO - Loaded plugin SelectionTool
+2015-08-19 20:26:00,926 - INFO - Loaded plugin TranslateTool
+2015-08-19 20:26:00,936 - INFO - Checking for new version of cura
+2015-08-19 20:26:00,936 - INFO - Loaded plugin UpdateChecker
+2015-08-19 20:26:00,955 - INFO - Loaded plugin USBPrinting
+2015-08-19 20:26:00,969 - INFO - Loaded plugin CuraEngineBackend
+2015-08-19 20:26:01,283 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-19 20:26:01,306 - DEBUG - Backend connected on port 49674
+2015-08-19 20:26:02,360 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
+2015-08-19 20:27:27,519 - INFO - Loaded plugin FileLogger
+2015-08-19 20:27:27,748 - INFO - Loaded plugin LocalFileStorage
+2015-08-19 20:27:27,759 - INFO - Loaded plugin MeshView
+2015-08-19 20:27:27,768 - INFO - Loaded plugin WireframeView
+2015-08-19 20:27:27,775 - INFO - Loaded plugin LayerView
+2015-08-19 20:27:27,778 - INFO - Loaded plugin OBJReader
+2015-08-19 20:27:27,781 - INFO - Loaded plugin STLReader
+2015-08-19 20:27:27,785 - INFO - Loaded plugin OBJWriter
+2015-08-19 20:27:27,788 - INFO - Loaded plugin STLWriter
+2015-08-19 20:27:27,794 - INFO - Loaded plugin GCodeWriter
+2015-08-19 20:27:27,798 - INFO - Loaded plugin CameraTool
+2015-08-19 20:27:27,805 - INFO - Loaded plugin MirrorTool
+2015-08-19 20:27:27,832 - INFO - Loaded plugin RotateTool
+2015-08-19 20:27:27,840 - INFO - Loaded plugin ScaleTool
+2015-08-19 20:27:27,844 - INFO - Loaded plugin SelectionTool
+2015-08-19 20:27:27,849 - INFO - Loaded plugin TranslateTool
+2015-08-19 20:27:27,855 - INFO - Checking for new version of cura
+2015-08-19 20:27:27,855 - INFO - Loaded plugin UpdateChecker
+2015-08-19 20:27:27,871 - INFO - Loaded plugin USBPrinting
+2015-08-19 20:27:27,884 - INFO - Loaded plugin CuraEngineBackend
+2015-08-19 20:27:28,145 - INFO - Started engine process: /Applications/Cura.app/Contents/MacOS/CuraEngine
+2015-08-19 20:27:28,174 - DEBUG - Backend connected on port 49674
+2015-08-19 20:27:28,993 - DEBUG - Loaded theme /Applications/Cura.app/Contents/Resources/cura/resources/themes/cura
